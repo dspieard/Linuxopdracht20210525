@@ -1,1 +1,1 @@
-# Linuxopdracht20210525
+# linuxbasics
